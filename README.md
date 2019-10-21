@@ -18,7 +18,7 @@ const config = {
   playerHeader:$('.player-header')
 }
 
-//player class
+# player class
 new Player(audio,config)
   .then(player =>{
 
