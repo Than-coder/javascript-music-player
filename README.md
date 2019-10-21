@@ -1,6 +1,6 @@
 # javascript-music-player
 
-// player config file
+# player config file
 const config = {
   songs,
   path:'/mp3',
